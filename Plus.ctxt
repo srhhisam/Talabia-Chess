@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Plus
+comment1.params=pieceAlliance\ piecePosition
+comment1.target=Plus(Alliance,\ int)
+comment2.params=pieceAlliance\ piecePosition\ isFirstMove
+comment2.target=Plus(Alliance,\ int,\ boolean)
+comment3.params=board
+comment3.target=java.util.Collection\ calcLegalMoves(Board)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=move
+comment5.target=Plus\ movePiece(Move)
+comment6.params=currentPosition\ candidateOffset
+comment6.target=boolean\ isFirstColumnExclusion(int,\ int)
+comment7.params=currentPosition\ candidateOffset
+comment7.target=boolean\ isSeventhColumnExclusion(int,\ int)
+numComments=8

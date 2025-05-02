@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BoardUtils
+comment1.params=
+comment1.target=BoardUtils()
+comment2.params=columnNumber
+comment2.target=boolean[]\ initColumn(int)
+comment3.params=rowNumber
+comment3.target=boolean[]\ initRow(int)
+comment4.params=coordinate
+comment4.target=boolean\ isValidTileCoordinate(int)
+numComments=5

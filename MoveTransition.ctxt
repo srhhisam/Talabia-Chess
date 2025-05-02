@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MoveTransition
+comment1.params=transitionBoard\ move\ moveStatus
+comment1.target=MoveTransition(Board,\ Move,\ MoveStatus)
+comment2.params=
+comment2.target=MoveStatus\ getMoveStatus()
+comment3.params=
+comment3.target=Board\ getTransitionBoard()
+numComments=4

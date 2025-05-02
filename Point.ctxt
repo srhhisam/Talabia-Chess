@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Point
+comment1.params=pieceAlliance\ piecePosition
+comment1.target=Point(Alliance,\ int)
+comment2.params=pieceAlliance\ piecePosition\ isFirstMove
+comment2.target=Point(Alliance,\ int,\ boolean)
+comment3.params=board
+comment3.target=java.util.Collection\ calcLegalMoves(Board)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=move
+comment5.target=Point\ movePiece(Move)
+numComments=6

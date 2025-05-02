@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GUI
+comment1.params=
+comment1.target=GUI()
+comment2.params=
+comment2.target=javax.swing.JMenuBar\ displayMenuBar()
+comment3.params=
+comment3.target=javax.swing.JMenu\ createFileMenu()
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=6
