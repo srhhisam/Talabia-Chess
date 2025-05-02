@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Tile
+comment1.params=
+comment1.target=java.util.Map\ createAllPossibleEmptyTiles()
+comment2.params=tileCoordinate\ piece
+comment2.target=Tile\ createTile(int,\ Piece)
+comment3.params=tileCoordinate
+comment3.target=Tile(int)
+comment4.params=
+comment4.target=boolean\ isTileOccupied()
+comment5.params=
+comment5.target=Piece\ getPiece()
+comment6.params=
+comment6.target=int\ getTileCoordinate()
+numComments=7
